@@ -13,7 +13,6 @@
     font-weight: 400;
     font-style: normal;
   }
-  /* Custom font size and color for navbar links */
 .navbar-nav .nav-link {
     font-size: 16px; 
     color: #fff;  
@@ -25,7 +24,7 @@
   }
 
 .navbar-nav .nav-link:hover {
-    color: #ee273e; /* Change color on hover */
+    color: #ee273e; 
 }
 
   p,li{
@@ -174,10 +173,6 @@ display: inline-block;
       opacity: 0; 
     }
   }
-  
- 
- 
-
 /* Header section */
 .header {
     background-color: #312654;
@@ -185,13 +180,12 @@ display: inline-block;
     display: inline-block;
     padding: 10px 20px;
     position: relative;
-    margin-bottom: 20px;
-    
-   
+    margin-bottom: 20px;  
 }
 
-.content {
-    width: 100%;  /* Ensure content takes full width of the container */
+.content p{
+    width: 100%;
+    color:#000;
 }
 
 .header p{
@@ -202,11 +196,10 @@ display: inline-block;
 }
 
 .highlight {
-    background-color: #ff0062;
-    color: #ffffff;
+    background-color: #d82983;
+    color: #41d895;
     padding: 0 5px;
 }
-
   
 .pixel-box--error {
     color: #fff;
