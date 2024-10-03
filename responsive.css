@@ -1,0 +1,145 @@
+@media (max-width: 768px) {
+    p,li {
+       font-size: 12px; 
+    }
+}
+@media (max-width:768px) {
+    h1,h2{
+        font-size:40px !important;
+      
+    }
+    
+}
+@media (max-width:768px) {
+    h3,h4{
+        font-size:25px !important;
+      
+    }
+    
+}
+@media (max-width:768px) {
+    h5{
+        font-size:14px !important;
+      
+    }
+    
+}
+@media (max-width:768px) {
+    .question-mark{
+        height: 60px;
+        margin-bottom: 30px;
+       
+      
+    }
+    
+}
+
+@media (max-width:768px) {
+    .full-width-row{
+        background-image: none;
+        width: 90%;
+        margin: 30px auto;
+        padding: 40px;
+        
+    }
+}
+@media (max-width:768px) {
+    .middle-column{
+        height: 300px; 
+    }
+    
+}
+@media (max-width:768px) {
+    .text-overlay{
+        font-size: 10px;
+      
+    }
+    
+}
+@media (max-width:768px) {
+    .ms-icons{
+        height: 150px;
+      
+    }
+    
+}
+
+
+@media (max-width:768px) {
+    .absolute-image{
+        min-width: 200px;
+       left: -15%;
+        
+        
+        
+      
+    }
+    
+}
+@media (max-width:768px) {
+    .absolute-image-signer{
+       top: 45%;
+       left: 15%;
+       min-width: 100px;
+       margin-top: 20px;
+       
+      
+    }
+    
+}
+@media (max-width:768px) {
+    .start-button{
+       width: 200px;
+      
+    }
+    
+}
+@media (max-width:768px) {
+    .mouse{
+       width: 250px;
+       margin-top: 30px;
+       
+      
+    }
+    
+}
+
+
+.navbar-nav .nav-link {
+    color: white; 
+}
+
+
+.navbar-nav .nav-link:hover {
+    color:#ee273e; 
+}
+
+
+@media (max-width: 991px) {
+    .navbar-collapse {
+        background-color: rgba(0, 0, 0, 0.9); 
+        border-radius: 10px;
+        padding: 10px;
+    }
+}
+.navbar-toggler{
+    border: none !important;
+}
+
+.navbar-toggler:focus, .navbar-toggler:hover {
+    outline: none !important;
+    box-shadow: none !important;
+    border: none !important;
+}
+
+/* Custom white hamburger menu icon */
+.navbar-toggler-icon {
+    background-image: url('data:image/svg+xml;charset=utf8,%3Csvg viewBox%3D%220 0 30 30%22 xmlns%3D%22http://www.w3.org/2000/svg%22%3E%3Cpath stroke%3D%22rgba(255, 255, 255, 1)%22 stroke-width%3D%222%22 stroke-linecap%3D%22round%22 stroke-miterlimit%3D%2210%22 d%3D%22M4 7h22M4 15h22M4 23h22%22/%3E%3C/svg%3E') !important;
+    background-color: transparent !important;
+    border: none !important;
+}
+
+
+
+
+
