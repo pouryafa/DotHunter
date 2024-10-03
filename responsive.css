@@ -28,8 +28,6 @@
     .question-mark{
         height: 60px;
         margin-bottom: 30px;
-       
-      
     }
     
 }
@@ -37,7 +35,7 @@
 @media (max-width:768px) {
     .full-width-row{
         background-image: none;
-        width: 90%;
+        width: 100%;
         margin: 30px auto;
         padding: 40px;
         
@@ -68,38 +66,29 @@
 @media (max-width:768px) {
     .absolute-image{
         min-width: 200px;
-       left: -15%;
-        
-        
-        
-      
+       left: -15%;  
     }
     
 }
 @media (max-width:768px) {
     .absolute-image-signer{
-       top: 45%;
-       left: 15%;
+       top: 50%;
+       left: 10%;
        min-width: 100px;
        margin-top: 20px;
-       
-      
     }
     
 }
 @media (max-width:768px) {
     .start-button{
-       width: 200px;
-      
+       width: 200px;   
     }
     
 }
 @media (max-width:768px) {
     .mouse{
        width: 250px;
-       margin-top: 30px;
-       
-      
+       margin-top: 30px; 
     }
     
 }
