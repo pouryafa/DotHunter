@@ -41,25 +41,13 @@
         
     }
 }
-@media (max-width:768px) {
-    .middle-column{
-        height: 300px; 
-    }
-    
-}
-@media (max-width:768px) {
-    .text-overlay{
-        font-size: 10px;
-      
-    }
-    
-}
+
 @media (max-width:768px) {
     .ms-icons{
-        height: 150px;
+        height: 90px;
+        margin:20px;
       
-    }
-    
+    }  
 }
 
 
